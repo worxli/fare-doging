@@ -1,14 +1,17 @@
-# MATLAB HS12 – Research Plan (Template)
+# MATLAB HS12 – Research Plan
 
 > * Group Name: netzwerk
 > * Group participants names: Ammann Jens, Bischofberger Lukas
-> * Project Title: (can be changed)
+> * Project Title: fare-doging
 
 ## General Introduction
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+
+A lot of people use public transportation, but also many of them accidentally or intentionally
+don't pay for it. From our perspective it would be interesting to see how the behaviour of those who conciously don't buy a ticket changes with the kind of temporal control by the transportation service. 
 
 ## The Model
 
