@@ -23,6 +23,10 @@ don't pay for it. From our perspective it would be interesting to see how the be
 (At the end of the project you want to find the answer to these questions)
 (Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
 
+What would be the best model for the public transportation company to control the tickets?
+How would they have the least people fare-doging?
+How would they make the most profit?
+
 
 ## Expected Results
 
@@ -40,7 +44,4 @@ don't pay for it. From our perspective it would be interesting to see how the be
 
 (Cellular Automata, Agent-Based Model, Continuous Modeling...) (If you are not sure here: 1. Consult your colleagues, 2. ask the teachers, 3. remember that you can change it afterwards)
 
-
-## Other
-
-(mention datasets you are going to use)
+Agent-Based Model (humans can change their behaviour and interact, controllers and environement is static and doesn't change throughout the simulation)
