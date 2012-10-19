@@ -17,6 +17,7 @@ don't pay for it. From our perspective it would be interesting to see how the be
 
 (Define dependent and independent variables you want to study. Say how you want to measure them.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?)
 
+We model a set of train routes, which cost a fixed price and have a fixed number of trains on it. We also have a fixed number of people who are able to use the different train routes with a fixed number of rides over a specific time period. Each person has a probability to become a fare-dodger, this probability can change dependent on his social environement (his friend got controlled) or if he himself got into a control.
 
 ## Fundamental Questions
 
